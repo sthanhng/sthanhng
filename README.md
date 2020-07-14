@@ -1,12 +1,12 @@
-### Hi, I'm Thanh Nguyen 👋
+# Hi, I'm Thanh Nguyen 👋
 
-I'm an AI Engineer and I'm passionate about AI technologies and everything related to the Cloud, especially AWS.
+I'm an **AI Engineer** and I'm passionate about **AI technologies** and everything related to the Cloud, especially **AWS**.
 
-#### Find me around the web
+## Find me around the web 🌎
 
 - [LinkedIn](https://www.linkedin.com/in/sthanhng/)
 
-#### How to reach me
+## How to reach me 📫
 
 - Email: sthanhng@gmail.com
 - Skype: nsthanh102
